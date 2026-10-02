@@ -1,0 +1,7 @@
+*.nds
+*.srl
+*.sav
+*.zip
+*.7z
+__pycache__/
+out/
